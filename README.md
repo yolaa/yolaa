@@ -5,9 +5,11 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yolaa&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=html,css,scss,blade,makefile">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=yolaa&theme=transparent&hide_border=true">
 </p>
-
+📫 How to reach me: ellonmuskgank@gmail.com 
+⚡ Fun fact: sweeth tooth, savoury and spicy well-crafted tounge
+🌱 I’m currently learning swift, html + css 
 <!--
-**andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**copast teman project pak andika galih is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
